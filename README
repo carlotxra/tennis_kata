@@ -11,3 +11,6 @@
  • The "deuce" case should be handled.
  • After a game has been won, a winner must be determined.
  • Be able to get the current score of either player at any point during the game.
+
+<b>Contraints:</b>
+ No exposed primitives.
